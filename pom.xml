@@ -6,16 +6,16 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.6.4</version>
-		<relativePath /> <!-- lookup parent from repository -->
+		<version>4.0.3</version>
+		<relativePath /> 
 	</parent>
 	<groupId>com.jtspringproject</groupId>
-	<artifactId>JtSpringProject</artifactId>
+	<artifactId>QuickMart</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ErE-comerce</name>
+	<name>QuickMart</name>
 	<description>Spring project for Java Technology</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 
